@@ -7,3 +7,5 @@ conflict main
 
 Conflict feature
 
+for version trainee
+
